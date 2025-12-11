@@ -6,14 +6,6 @@ My personal solutions and notes while working through [Eloquent JavaScript](http
 
 This repo contains my exercise solutions as I work through the book.
 
-## Structure
-
-├── chapter-02-program-structure/
-├── chapter-03-functions/
-├── chapter-04-data-structures/
-├── chapter-05-higher-order-functions/
-└── ...
-
 Each chapter folder contains:
 
 - Exercise solutions
